@@ -1,3 +1,5 @@
+// Keep your code clean. Delete comments that u do not need
+
 /*  var myCustomClass = 'customColor';
   var myCustomBgKey = 'background';
   var myCustomBackgroundColor = 'purple';

@@ -19,6 +19,7 @@
     animation-direction: alternate;
 }*/
 
+// Id`s must be unique, so having to id`s doesn`t help. Just #googleMap should be fine.
 #home #googleMap {
 	position: absolute;
 	visibility: hidden;

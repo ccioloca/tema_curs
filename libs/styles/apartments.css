@@ -22,6 +22,9 @@
 }*/
 
 /*custom content*/
+
+// Check indentation all over the file. You must be consistent.
+
 #apartments {
 	background: url(../../assets/rio-de-janeiro-apartments.jpg);
 	background-size: cover;
@@ -32,6 +35,7 @@
 	border: 1px solid #337ab7;
 }
 
+// no need to 2 id`s  if u have more than 1 #post-top, check your code. I must have only 1.
 #apartments #post_top {
 	padding-bottom: 15px;
 }
@@ -60,6 +64,8 @@
 }
 
 /*custom footer*/
+
+// same here regarding id`s
 #apartments #footer {
 	background: #d7e2e6;
 	padding: 50px 0 50px 0;
